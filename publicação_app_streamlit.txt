@@ -1,0 +1,5 @@
+C:/Users/ernes/anaconda3/scripts/activate
+C:/Users/ernes/anaconda3/scripts/conda activate base
+streamlit run app.py
+
+https://dashvendas-hagnuuyns6.streamlit.app/
